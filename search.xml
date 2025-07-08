@@ -8,7 +8,7 @@
       <link href="/2025/07/08/test/"/>
       <url>/2025/07/08/test/</url>
       
-        <content type="html"><![CDATA[<div class="video-container">[up主专用，视频内嵌代码贴在这]</div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
+        <content type="html"><![CDATA[<p>见字如面，欢迎欢迎！</p><div class="video-container">[up主专用，视频内嵌代码贴在这]</div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
       
       
       
@@ -17,11 +17,11 @@
     
     
     <entry>
-      <title></title>
-      <link href="/2025/07/08/#test/"/>
-      <url>/2025/07/08/#test/</url>
+      <title>你好，欢迎！</title>
+      <link href="/2025/07/08/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%AC%A2%E8%BF%8E%EF%BC%81/"/>
+      <url>/2025/07/08/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%AC%A2%E8%BF%8E%EF%BC%81/</url>
       
-        <content type="html"><![CDATA[<hr><p>title:#TEST<br>cover: <a href="https://img.090227.xyz/file/ae62475a131f3734a201c.png">https://img.090227.xyz/file/ae62475a131f3734a201c.png</a><br>date: 2025-07-08 15:47:01<br>updated: 2025-07-08 15:48:01<br>tags:<br>categories:<br>keywords: test<br>description: test test<br>top_img:<br>comments:<br>toc:<br>toc_number:<br>toc_style_simple:<br>copyright:<br>copyright_author:<br>copyright_author_href:<br>copyright_url:<br>copyright_info:<br>mathjax:<br>katex:<br>aplayer:<br>highlight_shrink:<br>aside:<br>swiper_index: 1<br>top_group_index: 1<br>background: “#fff”</p>]]></content>
+        <content type="html"><![CDATA[<p>欢迎访问，网站建设中。<br>欢迎联系我<a href="mailto:&#106;&#x75;&#121;&#x75;&#97;&#x6e;&#x35;&#x32;&#x33;&#x30;&#x31;&#64;&#111;&#x75;&#x74;&#x6c;&#111;&#111;&#107;&#x2e;&#99;&#111;&#109;">&#106;&#x75;&#121;&#x75;&#97;&#x6e;&#x35;&#x32;&#x33;&#x30;&#x31;&#64;&#111;&#x75;&#x74;&#x6c;&#111;&#111;&#107;&#x2e;&#99;&#111;&#109;</a></p>]]></content>
       
       
       
@@ -34,7 +34,7 @@
       <link href="/2025/07/08/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%96%B0%E7%9A%84%E5%8D%9A%E6%96%87/"/>
       <url>/2025/07/08/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%96%B0%E7%9A%84%E5%8D%9A%E6%96%87/</url>
       
-        <content type="html"><![CDATA[<div class="video-container">[up主专用，视频内嵌代码贴在这]</div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
+        <content type="html"><![CDATA[<p>你好！这是博文正文内容。</p><div class="video-container">[up主专用，视频内嵌代码贴在这]</div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
       
       
       
